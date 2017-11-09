@@ -1,0 +1,46 @@
+<questions>
+<question>
+ <qID>001</qID>
+ <qText>
+ <possible1>A</possible1>
+ <possible2>B</possible2>
+ <possible3>C</possible3>
+ <possible4>D</possible4>
+ </qText>
+ <qPicture>001.png</qPicture>
+ <correctAnswers>0</correctAnswers>
+</question>
+<question>
+ <qID>002</qID>
+ <qText>
+ <possible1>AA</possible1>
+ <possible2>BB</possible2>
+ <possible3>CC</possible3>
+ <possible4>DD</possible4>
+ </qText>
+ <qPicture>002.png</qPicture>
+ <correctAnswers>3</correctAnswers>
+</question>
+<question>
+ <qID>003</qID>
+ <qText>
+ <possible1>AAA</possible1>
+ <possible2>BBB</possible2>
+ <possible3>CCC</possible3>
+ <possible4>DDD</possible4>
+ </qText>
+ <qPicture>003.png</qPicture>
+ <correctAnswers>2</correctAnswers>
+</question>
+<question>
+ <qID>004</qID>
+ <qText>
+ <possible1>AAAA</possible1>
+ <possible2>BBBB</possible2>
+ <possible3>CCCC</possible3>
+ <possible4>DDDD</possible4>
+ </qText>
+ <qPicture>004.png</qPicture>
+ <correctAnswers>3</correctAnswers>
+</question>
+</questions>
